@@ -1,0 +1,19 @@
+body {
+    background-color: aquamarine;
+}
+
+.btn {
+    width: 100px;
+    height: 100px;
+    font: xx-large;
+}
+
+.btntake2 {
+    width: 200px;
+}
+
+input[type="text"] {
+    width: 400px;
+    height: 100px;
+    font-size: xx-large;
+}
